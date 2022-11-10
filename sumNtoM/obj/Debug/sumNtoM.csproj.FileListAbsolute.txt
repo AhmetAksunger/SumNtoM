@@ -1,0 +1,8 @@
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\bin\Debug\sumNtoM.exe.config
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\bin\Debug\sumNtoM.exe
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\bin\Debug\sumNtoM.pdb
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\obj\Debug\sumNtoM.csproj.AssemblyReference.cache
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\obj\Debug\sumNtoM.csproj.SuggestedBindingRedirects.cache
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\obj\Debug\sumNtoM.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\obj\Debug\sumNtoM.exe
+C:\Users\90538\source\repos\sumNtoM\sumNtoM\obj\Debug\sumNtoM.pdb
